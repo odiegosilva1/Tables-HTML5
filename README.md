@@ -1,2 +1,2 @@
 # Tables-HTML5
-Atividade prática modelo um front-end Growdev.
+Atividade prática módulo um front-end Growdev.
